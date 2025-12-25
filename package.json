@@ -2973,7 +2973,7 @@
         "handlebars": "^4.7.6",
         "node-fetch": "^3.3.2",
         "semver": "^7.3.7",
-        "tar": "^6.1.11",
+        "tar": "^7.4.3",
         "tree-kill": "^1.2.2",
         "vscode-languageclient": "^8.0.2",
         "vscode-nls": "^5.0.0",
